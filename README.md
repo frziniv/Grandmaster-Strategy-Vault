@@ -6,6 +6,13 @@ def analyze_top_opponents():
     Analyzes the perceived win-rate and key strategies of top-ranked opponents.
     This is a placeholder for real data fetching/analysis.
     """
+    # strategy_analyzer.py
+
+def analyze_top_opponents():
+    """
+    Analyzes the perceived win-rate and key strategies of top-ranked opponents.
+    This is a placeholder for real data fetching/analysis.
+    """
     
     top_opponents = {
         "Opponent_A_Slayer": {"Win_Rate": 92.5, "Strategy": "Aggressive-Early-Push"},
